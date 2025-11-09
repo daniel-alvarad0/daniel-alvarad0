@@ -1,3 +1,4 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" Width="100%">
 <h1 align="center">Hola soy Daniel Alvarado
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGFyNTZzdXF0b2k4MGhuM2FiZnE2d3Rycnk2OG10Mzg0bDAxemF1eSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/qyv59JLK2Q0Or2qt0H/giphy.gif" width="70">
 </h1>
@@ -41,7 +42,7 @@ estoy motivado por unirme al mundo laboral y me entusiasma la oportunidad de apo
 
 
 ### Estadísticas de Git:
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" Width="100%">
+
 <p align="center">
   <a href="https://github.com/daniel-alvarad0">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniel-alvarad0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -50,7 +51,6 @@ estoy motivado por unirme al mundo laboral y me entusiasma la oportunidad de apo
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniel-alvarad0&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" Width="100%">
 
 ### Conéctate conmigo
 <a href= "https://www.linkedin.com/in/daniel-alvarado-662ab4244/">
@@ -59,3 +59,4 @@ estoy motivado por unirme al mundo laboral y me entusiasma la oportunidad de apo
 <a href= "https://www.instagram.com/daniel4lvarado/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" Width="100%">
