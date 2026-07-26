@@ -7,7 +7,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>**Sobre mi:**
 
-Soy Estudiante egresado de Ingeniería en Computación en la [Universidad Don Bosco](https://www.udb.edu.sv/udb/).
+Soy graduado de Ingeniería en Computación en la [Universidad Don Bosco](https://www.udb.edu.sv/udb/).
 Me encuentro ampliando mis conocimientos tanto en desarrollo front-end como back-end,
 estoy motivado por unirme al mundo laboral y me entusiasma la oportunidad de aportar algo al mundo Tech. 
 - 🌱 Actualmente estoy aprendiendo ...
